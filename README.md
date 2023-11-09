@@ -9,7 +9,7 @@ Este é um aplicativo móvel desenvolvido em Flutter para gerenciamento de texto
 - Android Studio ou VS Code
 
 ### Instalação
-1. Clone o repositório: `git clone [url-do-repositorio]`
+1. Clone o repositório: `git clone [[url-do-repositorio]](https://github.com/LeonardoMaito/mobx_test)`
 2. Instale as dependências: `flutter pub get`
 3. Caso necessário, rode `flutter pub run build_runner build` e em seguida, `flutter pub run build_runner watch`
 
