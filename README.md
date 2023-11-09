@@ -1,16 +1,26 @@
-# prova_target_sistemas
+# MobX Target
 
-A new Flutter project.
+## Sobre o Projeto
+Este é um aplicativo móvel desenvolvido em Flutter para gerenciamento de textos. Ele permite aos usuários adicionar, editar e deletar textos.
 
-## Getting Started
+### Configurações
 
-This project is a starting point for a Flutter application.
+- Flutter (versão 3.13.8)
+- Android Studio ou VS Code
 
-A few resources to get you started if this is your first Flutter project:
+### Instalação
+1. Clone o repositório: `git clone [url-do-repositorio]`
+2. Instale as dependências: `flutter pub get`
+3. Caso necessário, rode `flutter pub run build_runner build` e em seguida, `flutter pub run build_runner watch`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Executando o Aplicativo
+Rode `flutter run` dentro do diretório do projeto.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Uso
+O aplicativo permite que você:
+- Adicione novos textos.
+- Edite textos existentes.
+- Delete textos indesejados.
+
+## Contato
+Leonardo Maito - leonardotmaito@gmail.com
